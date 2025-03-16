@@ -1,4 +1,4 @@
-<h1 align="center">Comenzando y Conociendo HTML5 Parte 3</h1>
+<h1 align="center">Comenzando y Conociendo HTML5 Parte 3-A</h1>
 <p align="center"> Curso HTML5</p>
 <p align="center">  Instructor: Juan Diaz</p>
 <p align="center">  Alumn: David Bernal Diaz</p>
@@ -49,8 +49,6 @@ Los siguientes titulos son los que contiene este proyecto:
 - HTML 5. JavaScript Introducción. Vídeo 12
 - HTML 5. JavaScript Identificación de elementos. Vídeo 13
 - HTML 5. JavaScript Identificación de elementos II. Vídeo 14
-- HTML 5. Eventos en HTML 5 con JavaScript. Vídeo 15
-- HTML 5. Eventos en HTML 5 con JavaScript II. Vídeo 16
 
 ## Guía de usuario
 A continuacion se explica brevemente los conceptos de html5, css y javascript
